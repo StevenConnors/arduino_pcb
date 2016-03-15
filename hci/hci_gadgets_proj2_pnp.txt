@@ -1,0 +1,66 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=hci_gadgets_proj2
+*Date=02:17:39
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;40.325;-64.0417;0;Bottom;IMG3
+2;5V;78xxl;49.3636;-14.0734;90;Bottom;IC1
+3;;;2.90097;-47.4477;0;Bottom;TXT2
+4;0.1µF;100 mil [THT, electrolytic];42.15;-40.0293;0;Bottom;C1
+5;10k;THT;53.58;-55.2693;180;Bottom;R1
+6;;;2.78002;-49.9474;0;Bottom;TXT2
+7;;;1.38179;-35.0577;0;Bottom;TXT2
+8;;;1.36107;-32.4152;0;Bottom;TXT2
+9;;;20.56;-70.5093;0;Bottom;Via6
+10;0.33µF;100 mil [THT, electrolytic];40.88;-31.1393;90;Bottom;C2
+11;9V;;45.96;-31.1393;0;Bottom;Battery
+12;;2x3-ns;49.9375;-45.1093;-90;Bottom;ICP
+13;;;24.7052;-4.25766;0;Bottom;TXT2
+14;;;1.36731;-9.64554;0;Bottom;TXT2
+15;;;2.94129;-52.7293;0;Bottom;TXT2
+16;;;1.7653;-25.132;0;Bottom;TXT2
+17;;;2.61875;-55.4709;0;Bottom;TXT2
+18;;;43.9422;-2.25983;0;Bottom;TXT1
+19;;;1.60837;-19.5004;0;Bottom;TXT2
+20;;;1.64434;-27.0471;0;Bottom;TXT2
+21;;;26.7404;-64.6767;0;Bottom;TXT2
+22;;;1.43359;-14.4177;0;Bottom;TXT2
+23;;;51.7732;-40.3757;0;Bottom;TXT3
+24;;;12.94;-70.5093;0;Bottom;Via7
+25;;;1.169;-42.5813;0;Bottom;TXT2
+26;;;2.92113;-45.0388;0;Bottom;TXT2
+27;;;1.31393;-11.9281;0;Bottom;TXT2
+28;;;1.35799;-29.9365;0;Bottom;TXT2
+29;;;56.12;-52.7293;0;Bottom;Via4
+30;;;53.0536;-64.2337;0;Bottom;IMG2
+31;;THT;14.21;-4.46933;90;Bottom;FTDI
+32;;;1.39457;-17.2634;0;Bottom;TXT2
+33;;THT;7.86002;-70.5093;90;Bottom;Y1
+34;;;1.35547;-39.9397;0;Bottom;TXT2
+35;;cap-pth-small2;38.34;-13.3593;-90;Bottom;C3
+36;;;2.74474;-57.9152;0;Bottom;TXT2
+37;;THT;21.83;-65.4293;90;Bottom;B-board PW
+38;;;46.7411;-48.9899;0;Bottom;TXT3
+39;;;46.6515;-26.7432;90;Bottom;TXT2
+40;;;56.12;-45.1093;0;Bottom;Via5
+41;;dip;19.29;-33.6793;0;Bottom;Top
+42;;;1.40027;-37.6461;0;Bottom;TXT2
+43;;;47.1545;-40.6291;0;Bottom;TXT3
+44;;cap-pth-small2;45.96;-10.8193;-90;Bottom;C4
+45;;;58.66;-34.9493;0;Bottom;Via9
+46;;THT;5.32002;-33.6793;0;Bottom;Hdrs
+47;;;16.0931;-65.3285;0;Bottom;TXT2
+48;;;42.1359;-71.7706;0;Bottom;TXT1
+49;;;1.55426;-22.2549;0;Bottom;TXT2
+50;;THT;25.64;-32.4093;0;Bottom;AREF
+51;;;23.1;-73.0493;0;Bottom;Via8
